@@ -17,6 +17,8 @@ Nesta etapa do semestre trabalhamos em cima de 5 principais assuntos em grafos:
 ## Screenshots
 
 ![Questão 322](./Algoritmos-Ambiciosos/Questão-322/Resultado322.png)
+![Questão 1235](./Algoritmos-Ambiciosos/Questão-1235/Resultado1235.png)
+
 
 
 
