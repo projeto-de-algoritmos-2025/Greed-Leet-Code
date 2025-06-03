@@ -24,6 +24,8 @@ Nesta etapa do semestre trabalhamos em cima de 5 principais assuntos em grafos:
 
 ## Vídeo da entrega
 
+O vídeo da entrega pode ser visto (aqui)[https://youtu.be/Fz2xceellPA]
+
 ## Funcionamento
 
 
